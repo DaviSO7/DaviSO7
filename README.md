@@ -17,4 +17,4 @@ construindo experiência com Java e Kotlin no back-end.
   Sistema para cadastro, organização e visualização de dados acadêmicos.
 
 - **Sistema de Biblioteca** — Kotlin<br>
-  Sistema para cadastro, aluguel e devolução de livros.
+  Sistema para cadastro, aluguel, devolução e visualização de livros.
