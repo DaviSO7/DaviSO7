@@ -13,8 +13,8 @@ construindo experiência com Java e Kotlin no back-end.
 - ...
 
 ## 🚀 Projetos em destaque
-- **Painel de Alunos e Professores** — Python + MongoDB
+- **Painel de Alunos e Professores** — Python + MongoDB<br>
   Sistema para cadastro, organização e visualização de dados acadêmicos.
-  
-- **Sistema de Biblioteca** — Kotlin
+
+- **Sistema de Biblioteca** — Kotlin<br>
   Sistema para cadastro, aluguel e devolução de livros.
