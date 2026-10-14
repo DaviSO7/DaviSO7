@@ -1,17 +1,16 @@
 # Davi | Back-end Developer
 
-Estudante de desenvolvimento de software com foco em aplicações back-end,
-construindo experiência com Python e Java.
+Estudante de desenvolvimento de software com foco em aplicações back-end, IA e dados,
+construindo experiência com Python.
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
 
 ## 📚 Atualmente aprendendo
 
-* Desenvolvimento full stack com Python/Java
+* Desenvolvimento full stack com Python
 
 * Boas práticas de arquitetura de software
 
